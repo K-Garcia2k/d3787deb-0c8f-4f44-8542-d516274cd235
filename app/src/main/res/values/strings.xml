@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KG - Flickr Demo</string>
+    <string name="retry">Retry</string>
+    <string name="no_photos_could_be_loaded">No photos could be loaded.</string>
+    <string name="no_results_found">No results found.</string>
+</resources>
